@@ -1,0 +1,6 @@
+(wez_klucz pokoj6 klucz10 niebieski)
+(przejdz pokoj6 pokoj8 klucz10 niebieski)
+(wez_klucz pokoj8 klucz13 zielony)
+(przejdz pokoj1 pokoj2 klucz13 zielony)
+(wez_klucz pokoj2 klucz2 fioletowy)
+(przejdz pokoj6 pokoj9 klucz2 fioletowy)

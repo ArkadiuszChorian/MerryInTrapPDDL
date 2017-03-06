@@ -1,0 +1,49 @@
+begin_version
+3
+end_version
+begin_metric
+0
+end_metric
+1
+begin_variable
+var0
+-1
+2
+Atom merryklucz(czerwony, klucz1)
+Atom pokoj(pokoj1, klucz1)
+end_variable
+0
+begin_state
+1
+end_state
+begin_goal
+1
+0 0
+end_goal
+1
+begin_operator
+wez_klucz pokoj1 klucz1 czerwony
+0
+1
+0 0 1 0
+0
+end_operator
+0
+begin_SG
+switch 0
+check 0
+check 0
+check 1
+0
+check 0
+end_SG
+begin_DTG
+0
+1
+0
+0
+0
+end_DTG
+begin_CG
+0
+end_CG

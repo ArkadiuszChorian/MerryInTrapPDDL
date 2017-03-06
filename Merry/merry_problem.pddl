@@ -1,0 +1,63 @@
+(define (problem merry_problem)
+(:domain merry_definitions)
+(:objects 
+pokoj1 pokoj2 pokoj3 pokoj4 pokoj5 pokoj6 pokoj7 pokoj8 pokoj9
+klucz1 klucz2 klucz3 klucz4 klucz5 klucz6 klucz7 klucz8 klucz9 klucz10 klucz11 klucz12 klucz13 klucz14
+zolty fioletowy zielony niebieski czerwony
+drzwi12 drzwi13 drzwi24 drzwi35 drzwi46 drzwi56 drzwi57 drzwi68 drzwi78 drzwi69
+)
+(:init
+(pokoj pokoj1 klucz1)
+(pokoj pokoj2 klucz2)
+(pokoj pokoj3 klucz3)
+(pokoj pokoj3 klucz4)
+(pokoj pokoj4 klucz5)
+(pokoj pokoj4 klucz6)
+(pokoj pokoj5 klucz7)
+(pokoj pokoj5 klucz8)
+(pokoj pokoj6 klucz9)
+(pokoj pokoj6 klucz10)
+(pokoj pokoj7 klucz11)
+(pokoj pokoj7 klucz12)
+(pokoj pokoj8 klucz13)
+(pokoj pokoj8 klucz14)
+
+(klucz zolty klucz1)
+(klucz fioletowy klucz2)
+(klucz zielony klucz3)
+(klucz niebieski klucz4)
+(klucz zolty klucz5)
+(klucz czerwony klucz6)
+(klucz niebieski klucz7)
+(klucz zolty klucz8)
+(klucz niebieski klucz9)
+(klucz niebieski klucz10)
+(klucz zolty klucz11)
+(klucz czerwony klucz12)
+(klucz zielony klucz13)
+(klucz niebieski klucz14) 
+
+(drzwi zielony pokoj1 pokoj2)
+(drzwi czerwony pokoj1 pokoj3)
+(drzwi czerwony pokoj3 pokoj1)
+(drzwi zielony pokoj2 pokoj4)
+(drzwi zolty pokoj3 pokoj5)
+(drzwi zolty pokoj5 pokoj3)
+(drzwi zolty pokoj4 pokoj6)
+(drzwi zolty pokoj6 pokoj4)
+(drzwi niebieski pokoj5 pokoj6)
+(drzwi niebieski pokoj6 pokoj5)
+(drzwi fioletowy pokoj6 pokoj9)
+(drzwi czerwony pokoj5 pokoj7)
+(drzwi czerwony pokoj7 pokoj5)
+(drzwi niebieski pokoj6 pokoj8)
+(drzwi niebieski pokoj8 pokoj6)
+(drzwi niebieski pokoj7 pokoj8)
+(drzwi niebieski pokoj8 pokoj7)
+
+(merryPozycja pokoj6)
+)
+(:goal
+(merryPozycja pokoj9) 
+))
+

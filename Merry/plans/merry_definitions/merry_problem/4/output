@@ -1,0 +1,1402 @@
+begin_version
+3
+end_version
+begin_metric
+0
+end_metric
+22
+begin_variable
+var7
+-1
+3
+Atom merryklucz(niebieski, klucz9)
+Atom pokoj(pokoj6, klucz9)
+<none of those>
+end_variable
+begin_variable
+var3
+-1
+3
+Atom merryklucz(niebieski, klucz10)
+Atom pokoj(pokoj6, klucz10)
+<none of those>
+end_variable
+begin_variable
+var0
+-1
+3
+Atom merryklucz(czerwony, klucz12)
+Atom pokoj(pokoj7, klucz12)
+<none of those>
+end_variable
+begin_variable
+var10
+-1
+3
+Atom merryklucz(zolty, klucz1)
+Atom pokoj(pokoj1, klucz1)
+<none of those>
+end_variable
+begin_variable
+var5
+-1
+3
+Atom merryklucz(niebieski, klucz4)
+Atom pokoj(pokoj3, klucz4)
+<none of those>
+end_variable
+begin_variable
+var6
+-1
+3
+Atom merryklucz(niebieski, klucz7)
+Atom pokoj(pokoj5, klucz7)
+<none of those>
+end_variable
+begin_variable
+var11
+-1
+3
+Atom merryklucz(zolty, klucz11)
+Atom pokoj(pokoj7, klucz11)
+<none of those>
+end_variable
+begin_variable
+var1
+-1
+3
+Atom merryklucz(czerwony, klucz6)
+Atom pokoj(pokoj4, klucz6)
+<none of those>
+end_variable
+begin_variable
+var14
+-1
+2
+Atom merrypozycja(pokoj1)
+<none of those>
+end_variable
+begin_variable
+var12
+-1
+3
+Atom merryklucz(zolty, klucz5)
+Atom pokoj(pokoj4, klucz5)
+<none of those>
+end_variable
+begin_variable
+var4
+-1
+3
+Atom merryklucz(niebieski, klucz14)
+Atom pokoj(pokoj8, klucz14)
+<none of those>
+end_variable
+begin_variable
+var19
+-1
+2
+Atom merrypozycja(pokoj7)
+<none of those>
+end_variable
+begin_variable
+var20
+-1
+2
+Atom merrypozycja(pokoj8)
+<none of those>
+end_variable
+begin_variable
+var8
+-1
+3
+Atom merryklucz(zielony, klucz13)
+Atom pokoj(pokoj8, klucz13)
+<none of those>
+end_variable
+begin_variable
+var13
+-1
+3
+Atom merryklucz(zolty, klucz8)
+Atom pokoj(pokoj5, klucz8)
+<none of those>
+end_variable
+begin_variable
+var16
+-1
+2
+Atom merrypozycja(pokoj3)
+<none of those>
+end_variable
+begin_variable
+var18
+-1
+2
+Atom merrypozycja(pokoj5)
+<none of those>
+end_variable
+begin_variable
+var9
+-1
+3
+Atom merryklucz(zielony, klucz3)
+Atom pokoj(pokoj3, klucz3)
+<none of those>
+end_variable
+begin_variable
+var17
+-1
+2
+Atom merrypozycja(pokoj4)
+<none of those>
+end_variable
+begin_variable
+var15
+-1
+2
+Atom merrypozycja(pokoj2)
+<none of those>
+end_variable
+begin_variable
+var2
+-1
+3
+Atom merryklucz(fioletowy, klucz2)
+Atom pokoj(pokoj2, klucz2)
+<none of those>
+end_variable
+begin_variable
+var21
+-1
+2
+Atom merrypozycja(pokoj9)
+<none of those>
+end_variable
+0
+begin_state
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+end_state
+begin_goal
+1
+21 0
+end_goal
+73
+begin_operator
+przejdz pokoj1 pokoj2 klucz13 zielony
+0
+2
+0 13 0 2
+0 19 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj1 pokoj2 klucz3 zielony
+0
+2
+0 17 0 2
+0 19 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj1 pokoj3 klucz12 czerwony
+0
+2
+0 2 0 2
+0 15 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj1 pokoj3 klucz6 czerwony
+0
+2
+0 7 0 2
+0 15 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj2 pokoj4 klucz13 zielony
+0
+2
+0 13 0 2
+0 18 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj2 pokoj4 klucz3 zielony
+0
+2
+0 17 0 2
+0 18 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj3 pokoj1 klucz12 czerwony
+0
+2
+0 2 0 2
+0 8 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj3 pokoj1 klucz6 czerwony
+0
+2
+0 7 0 2
+0 8 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj3 pokoj5 klucz1 zolty
+0
+2
+0 3 0 2
+0 16 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj3 pokoj5 klucz11 zolty
+0
+2
+0 6 0 2
+0 16 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj3 pokoj5 klucz5 zolty
+0
+2
+0 9 0 2
+0 16 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj3 pokoj5 klucz8 zolty
+0
+2
+0 14 0 2
+0 16 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj4 pokoj6 klucz1 zolty
+0
+1
+0 3 0 2
+0
+end_operator
+begin_operator
+przejdz pokoj4 pokoj6 klucz11 zolty
+0
+1
+0 6 0 2
+0
+end_operator
+begin_operator
+przejdz pokoj4 pokoj6 klucz5 zolty
+0
+1
+0 9 0 2
+0
+end_operator
+begin_operator
+przejdz pokoj4 pokoj6 klucz8 zolty
+0
+1
+0 14 0 2
+0
+end_operator
+begin_operator
+przejdz pokoj5 pokoj3 klucz1 zolty
+0
+2
+0 3 0 2
+0 15 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj5 pokoj3 klucz11 zolty
+0
+2
+0 6 0 2
+0 15 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj5 pokoj3 klucz5 zolty
+0
+2
+0 9 0 2
+0 15 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj5 pokoj3 klucz8 zolty
+0
+2
+0 14 0 2
+0 15 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj5 pokoj6 klucz10 niebieski
+0
+1
+0 1 0 2
+0
+end_operator
+begin_operator
+przejdz pokoj5 pokoj6 klucz14 niebieski
+0
+1
+0 10 0 2
+0
+end_operator
+begin_operator
+przejdz pokoj5 pokoj6 klucz4 niebieski
+0
+1
+0 4 0 2
+0
+end_operator
+begin_operator
+przejdz pokoj5 pokoj6 klucz7 niebieski
+0
+1
+0 5 0 2
+0
+end_operator
+begin_operator
+przejdz pokoj5 pokoj6 klucz9 niebieski
+0
+1
+0 0 0 2
+0
+end_operator
+begin_operator
+przejdz pokoj5 pokoj7 klucz12 czerwony
+0
+2
+0 2 0 2
+0 11 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj5 pokoj7 klucz6 czerwony
+0
+2
+0 7 0 2
+0 11 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj6 pokoj4 klucz1 zolty
+0
+2
+0 3 0 2
+0 18 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj6 pokoj4 klucz11 zolty
+0
+2
+0 6 0 2
+0 18 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj6 pokoj4 klucz5 zolty
+0
+2
+0 9 0 2
+0 18 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj6 pokoj4 klucz8 zolty
+0
+2
+0 14 0 2
+0 18 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj6 pokoj5 klucz10 niebieski
+0
+2
+0 1 0 2
+0 16 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj6 pokoj5 klucz14 niebieski
+0
+2
+0 10 0 2
+0 16 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj6 pokoj5 klucz4 niebieski
+0
+2
+0 4 0 2
+0 16 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj6 pokoj5 klucz7 niebieski
+0
+2
+0 5 0 2
+0 16 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj6 pokoj5 klucz9 niebieski
+0
+2
+0 0 0 2
+0 16 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj6 pokoj8 klucz10 niebieski
+0
+2
+0 1 0 2
+0 12 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj6 pokoj8 klucz14 niebieski
+0
+2
+0 10 0 2
+0 12 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj6 pokoj8 klucz4 niebieski
+0
+2
+0 4 0 2
+0 12 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj6 pokoj8 klucz7 niebieski
+0
+2
+0 5 0 2
+0 12 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj6 pokoj8 klucz9 niebieski
+0
+2
+0 0 0 2
+0 12 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj6 pokoj9 klucz2 fioletowy
+0
+2
+0 20 0 2
+0 21 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj7 pokoj5 klucz12 czerwony
+0
+2
+0 2 0 2
+0 16 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj7 pokoj5 klucz6 czerwony
+0
+2
+0 7 0 2
+0 16 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj7 pokoj8 klucz10 niebieski
+0
+2
+0 1 0 2
+0 12 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj7 pokoj8 klucz14 niebieski
+0
+2
+0 10 0 2
+0 12 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj7 pokoj8 klucz4 niebieski
+0
+2
+0 4 0 2
+0 12 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj7 pokoj8 klucz7 niebieski
+0
+2
+0 5 0 2
+0 12 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj7 pokoj8 klucz9 niebieski
+0
+2
+0 0 0 2
+0 12 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj8 pokoj6 klucz10 niebieski
+0
+1
+0 1 0 2
+0
+end_operator
+begin_operator
+przejdz pokoj8 pokoj6 klucz14 niebieski
+0
+1
+0 10 0 2
+0
+end_operator
+begin_operator
+przejdz pokoj8 pokoj6 klucz4 niebieski
+0
+1
+0 4 0 2
+0
+end_operator
+begin_operator
+przejdz pokoj8 pokoj6 klucz7 niebieski
+0
+1
+0 5 0 2
+0
+end_operator
+begin_operator
+przejdz pokoj8 pokoj6 klucz9 niebieski
+0
+1
+0 0 0 2
+0
+end_operator
+begin_operator
+przejdz pokoj8 pokoj7 klucz10 niebieski
+0
+2
+0 1 0 2
+0 11 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj8 pokoj7 klucz14 niebieski
+0
+2
+0 10 0 2
+0 11 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj8 pokoj7 klucz4 niebieski
+0
+2
+0 4 0 2
+0 11 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj8 pokoj7 klucz7 niebieski
+0
+2
+0 5 0 2
+0 11 -1 0
+0
+end_operator
+begin_operator
+przejdz pokoj8 pokoj7 klucz9 niebieski
+0
+2
+0 0 0 2
+0 11 -1 0
+0
+end_operator
+begin_operator
+wez_klucz pokoj1 klucz1 zolty
+1
+8 0
+1
+0 3 1 0
+0
+end_operator
+begin_operator
+wez_klucz pokoj2 klucz2 fioletowy
+1
+19 0
+1
+0 20 1 0
+0
+end_operator
+begin_operator
+wez_klucz pokoj3 klucz3 zielony
+1
+15 0
+1
+0 17 1 0
+0
+end_operator
+begin_operator
+wez_klucz pokoj3 klucz4 niebieski
+1
+15 0
+1
+0 4 1 0
+0
+end_operator
+begin_operator
+wez_klucz pokoj4 klucz5 zolty
+1
+18 0
+1
+0 9 1 0
+0
+end_operator
+begin_operator
+wez_klucz pokoj4 klucz6 czerwony
+1
+18 0
+1
+0 7 1 0
+0
+end_operator
+begin_operator
+wez_klucz pokoj5 klucz7 niebieski
+1
+16 0
+1
+0 5 1 0
+0
+end_operator
+begin_operator
+wez_klucz pokoj5 klucz8 zolty
+1
+16 0
+1
+0 14 1 0
+0
+end_operator
+begin_operator
+wez_klucz pokoj6 klucz10 niebieski
+0
+1
+0 1 1 0
+0
+end_operator
+begin_operator
+wez_klucz pokoj6 klucz9 niebieski
+0
+1
+0 0 1 0
+0
+end_operator
+begin_operator
+wez_klucz pokoj7 klucz11 zolty
+1
+11 0
+1
+0 6 1 0
+0
+end_operator
+begin_operator
+wez_klucz pokoj7 klucz12 czerwony
+1
+11 0
+1
+0 2 1 0
+0
+end_operator
+begin_operator
+wez_klucz pokoj8 klucz13 zielony
+1
+12 0
+1
+0 13 1 0
+0
+end_operator
+begin_operator
+wez_klucz pokoj8 klucz14 niebieski
+1
+12 0
+1
+0 10 1 0
+0
+end_operator
+0
+begin_SG
+switch 2
+check 0
+check 4
+2
+6
+25
+42
+switch 11
+check 0
+check 1
+70
+check 0
+check 0
+check 0
+switch 7
+check 0
+check 4
+3
+7
+26
+43
+switch 18
+check 0
+check 1
+64
+check 0
+check 0
+check 0
+switch 20
+check 0
+check 1
+41
+switch 19
+check 0
+check 1
+60
+check 0
+check 0
+check 0
+switch 1
+check 0
+check 6
+20
+31
+36
+44
+49
+54
+check 1
+67
+check 0
+switch 10
+check 0
+check 6
+21
+32
+37
+45
+50
+55
+switch 12
+check 0
+check 1
+72
+check 0
+check 0
+check 0
+switch 4
+check 0
+check 6
+22
+33
+38
+46
+51
+56
+switch 15
+check 0
+check 1
+62
+check 0
+check 0
+check 0
+switch 5
+check 0
+check 6
+23
+34
+39
+47
+52
+57
+switch 16
+check 0
+check 1
+65
+check 0
+check 0
+check 0
+switch 0
+check 0
+check 6
+24
+35
+40
+48
+53
+58
+check 1
+68
+check 0
+switch 13
+check 0
+check 2
+0
+4
+switch 12
+check 0
+check 1
+71
+check 0
+check 0
+check 0
+switch 17
+check 0
+check 2
+1
+5
+switch 15
+check 0
+check 1
+61
+check 0
+check 0
+check 0
+switch 3
+check 0
+check 4
+8
+12
+16
+27
+switch 8
+check 0
+check 1
+59
+check 0
+check 0
+check 0
+switch 6
+check 0
+check 4
+9
+13
+17
+28
+switch 11
+check 0
+check 1
+69
+check 0
+check 0
+check 0
+switch 9
+check 0
+check 4
+10
+14
+18
+29
+switch 18
+check 0
+check 1
+63
+check 0
+check 0
+check 0
+switch 14
+check 0
+check 4
+11
+15
+19
+30
+switch 16
+check 0
+check 1
+66
+check 0
+check 0
+check 0
+check 0
+end_SG
+begin_DTG
+1
+2
+24
+0
+1
+0
+68
+0
+0
+end_DTG
+begin_DTG
+1
+2
+20
+0
+1
+0
+67
+0
+0
+end_DTG
+begin_DTG
+1
+2
+2
+0
+1
+0
+70
+1
+11 0
+0
+end_DTG
+begin_DTG
+1
+2
+8
+0
+1
+0
+59
+1
+8 0
+0
+end_DTG
+begin_DTG
+1
+2
+22
+0
+1
+0
+62
+1
+15 0
+0
+end_DTG
+begin_DTG
+1
+2
+23
+0
+1
+0
+65
+1
+16 0
+0
+end_DTG
+begin_DTG
+1
+2
+9
+0
+1
+0
+69
+1
+11 0
+0
+end_DTG
+begin_DTG
+1
+2
+3
+0
+1
+0
+64
+1
+18 0
+0
+end_DTG
+begin_DTG
+0
+2
+0
+6
+1
+2 0
+0
+7
+1
+7 0
+end_DTG
+begin_DTG
+1
+2
+10
+0
+1
+0
+63
+1
+18 0
+0
+end_DTG
+begin_DTG
+1
+2
+21
+0
+1
+0
+72
+1
+12 0
+0
+end_DTG
+begin_DTG
+0
+7
+0
+25
+1
+2 0
+0
+26
+1
+7 0
+0
+54
+1
+1 0
+0
+55
+1
+10 0
+0
+56
+1
+4 0
+0
+57
+1
+5 0
+0
+58
+1
+0 0
+end_DTG
+begin_DTG
+0
+5
+0
+36
+1
+1 0
+0
+37
+1
+10 0
+0
+38
+1
+4 0
+0
+39
+1
+5 0
+0
+40
+1
+0 0
+end_DTG
+begin_DTG
+1
+2
+0
+0
+1
+0
+71
+1
+12 0
+0
+end_DTG
+begin_DTG
+1
+2
+11
+0
+1
+0
+66
+1
+16 0
+0
+end_DTG
+begin_DTG
+0
+6
+0
+2
+1
+2 0
+0
+3
+1
+7 0
+0
+16
+1
+3 0
+0
+17
+1
+6 0
+0
+18
+1
+9 0
+0
+19
+1
+14 0
+end_DTG
+begin_DTG
+0
+11
+0
+8
+1
+3 0
+0
+9
+1
+6 0
+0
+10
+1
+9 0
+0
+11
+1
+14 0
+0
+31
+1
+1 0
+0
+32
+1
+10 0
+0
+33
+1
+4 0
+0
+34
+1
+5 0
+0
+35
+1
+0 0
+0
+42
+1
+2 0
+0
+43
+1
+7 0
+end_DTG
+begin_DTG
+1
+2
+1
+0
+1
+0
+61
+1
+15 0
+0
+end_DTG
+begin_DTG
+0
+6
+0
+4
+1
+13 0
+0
+5
+1
+17 0
+0
+27
+1
+3 0
+0
+28
+1
+6 0
+0
+29
+1
+9 0
+0
+30
+1
+14 0
+end_DTG
+begin_DTG
+0
+2
+0
+0
+1
+13 0
+0
+1
+1
+17 0
+end_DTG
+begin_DTG
+1
+2
+41
+0
+1
+0
+60
+1
+19 0
+0
+end_DTG
+begin_DTG
+0
+1
+0
+41
+1
+20 0
+end_DTG
+begin_CG
+3
+16 1
+11 1
+12 2
+3
+16 1
+11 1
+12 2
+4
+8 1
+15 1
+16 1
+11 1
+3
+15 1
+18 1
+16 1
+3
+16 1
+11 1
+12 2
+3
+16 1
+11 1
+12 2
+3
+15 1
+18 1
+16 1
+4
+8 1
+15 1
+16 1
+11 1
+1
+3 1
+3
+15 1
+18 1
+16 1
+3
+16 1
+11 1
+12 2
+2
+2 1
+6 1
+2
+10 1
+13 1
+2
+19 1
+18 1
+3
+15 1
+18 1
+16 1
+2
+4 1
+17 1
+2
+5 1
+14 1
+2
+19 1
+18 1
+2
+7 1
+9 1
+1
+20 1
+1
+21 1
+0
+end_CG
